@@ -1,2 +1,4 @@
 */node_modules
 /frontend/.next
+/backend/src/config/.env
+/backend/dist
